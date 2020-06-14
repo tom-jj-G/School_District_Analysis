@@ -20,90 +20,90 @@ The goals of this challenge are for you to:
 ### Analysis Results
 #### District Summary 
 ##### Without data alteration
-![Images/Resources/Images/District_Summary_wa.png](Images/Resources/Images/District_Summary_wa.png)
+![Images/District_Summary_wa.png](Images/District_Summary_wa.png)
 
 ##### With data alteration
-![Images/Resources/Images/District_Summary.png](Images/Resources/Images/District_Summary.png)
+![Images/District_Summary.png](Images/District_Summary.png)
 
 ##### Conclusion
 
 ---
 #### School Summary 
 ##### Without data alteration
-![Images/Resources/Images/School_Summary_wa.png](Images/Resources/Images/School_Summary_wa.png)
+![Images/School_Summary_wa.png](Images/School_Summary_wa.png)
 
 ##### With data alteration
-![Images/Resources/Images/School_Summary.png](Images/Resources/Images/School_Summary.png)
+![Images/School_Summary.png](Images/School_Summary.png)
 
 ##### Conclusion
 
 ---
 #### Top 5 School Summary 
 ##### Without data alteration
-![Images/Resources/Images/School_Summary_Top_5_wa.png](Images/Resources/Images/School_Summary_Top_5_wa.png)
+![Images/School_Summary_Top_5_wa.png](Images/School_Summary_Top_5_wa.png)
 
 ##### With data alteration
-![Images/Resources/Images/School_Summary_Top_5_wa.png](Images/Resources/Images/School_Summary_Top_5.png)
+![Images/School_Summary_Top_5_wa.png](Images/School_Summary_Top_5.png)
 
 ##### Conclusion
 
 ---
 #### Bottom 5 School Summary 
 ##### Without data alteration
-![Images/Resources/Images/School_Summary_Bottom_5_wa.png](Images/Resources/Images/School_Summary_Bottom_5_wa.png)
+![Images/School_Summary_Bottom_5_wa.png](Images/School_Summary_Bottom_5_wa.png)
 
 ##### With data alteration
-![Images/Resources/Images/School_Summary_Bottom_5.png](Images/Resources/Images/School_Summary_Bottom_5.png.png)
+![Images/School_Summary_Bottom_5.png](Images/School_Summary_Bottom_5.png.png)
 
 ##### Conclusion
 
 ---
 #### Math Score by Grades
 ##### Without data alteration
-![Images/Resources/Images/School_Summary_Math_Score_by_Grade_wa.png](Images/Resources/Images/School_Summary_Math_Score_by_Grade_wa.png)
+![Images/School_Summary_Math_Score_by_Grade_wa.png](Images/School_Summary_Math_Score_by_Grade_wa.png)
 
 ##### With data alteration
-![Images/Resources/Images/School_Summary_Math_Score_by_Grade.png](Images/Resources/Images/School_Summary_Math_Score_by_Grade.png)
+![Images/School_Summary_Math_Score_by_Grade.png](Images/School_Summary_Math_Score_by_Grade.png)
 
 ##### Conclusion
 
 ---
 #### Reading Score by Grades
 ##### Without data alteration
-![Images/Resources/Images/School_Summary_Reading_Score_by_Grade_wa.png](Images/Resources/Images/School_Summary_Reading_Score_by_Grade_wa.png)
+![Images/School_Summary_Reading_Score_by_Grade_wa.png](Images/School_Summary_Reading_Score_by_Grade_wa.png)
 
 ##### With data alteration
-![Images/Resources/Images/School_Summary_Reading_Score_by_Grade.png](Images/Resources/Images/School_Summary_Reading_Score_by_Grade.png)
+![Images/School_Summary_Reading_Score_by_Grade.png](Images/School_Summary_Reading_Score_by_Grade.png)
 
 ##### Conclusion
 
 ---
 #### Score by School Spending
 ##### Without data alteration
-![Images/Resources/Images/Score_by_School_Spending_wa.png](Images/Resources/Images/Score_by_School_Spending_wa.png)
+![Images/Score_by_School_Spending_wa.png](Images/Score_by_School_Spending_wa.png)
 
 ##### With data alteration
-![Images/Resources/Images/Score_by_School_Spending.png](Images/Resources/Images/Score_by_School_Spending.png)
+![Images/Score_by_School_Spending.png](Images/Score_by_School_Spending.png)
 
 ##### Conclusion
 
 ---
 #### Score by School Size
 ##### Without data alteration
-![Images/Resources/Images/Score_by_School_Size_wa.png](Images/Resources/Images/Score_by_School_Size_wa.png)
+![Images/Score_by_School_Size_wa.png](Images/Score_by_School_Size_wa.png)
 
 ##### With data alteration
-![Images/Resources/Images/Score_by_School_Size.png](Images/Resources/Images/Score_by_School_Size.png)
+![Images/Score_by_School_Size.png](Images/Score_by_School_Size.png)
 
 ##### Conclusion
 
 ---
 #### Score by School Type
 ##### Without data alteration
-![Images/Resources/Images/Score_by_School_Type_wa.png](Images/Resources/Images/Score_by_School_Type_wa.png)
+![Images/Score_by_School_Type_wa.png](Images/Score_by_School_Type_wa.png)
 
 ##### With data alteration
-![Images/Resources/Images/Score_by_School_Type.png](Images/Resources/Images/Score_by_School_Type.png)
+![Images/Score_by_School_Type.png](Images/Score_by_School_Type.png)
 
 ##### Conclusion
 
