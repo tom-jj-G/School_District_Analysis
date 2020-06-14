@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Working files
+PyCitySchools_Challenge_Without_Alteration.ipynb
+
 # C extensions
 *.so
 
