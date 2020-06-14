@@ -53,7 +53,7 @@ The goals of this challenge are for you to:
 ![Images/School_Summary_Bottom_5_wa.png](Images/School_Summary_Bottom_5_wa.png)
 
 ##### With data alteration
-![Images/School_Summary_Bottom_5.png](Images/School_Summary_Bottom_5.png.png)
+![Images/School_Summary_Bottom_5.png](Images/School_Summary_Bottom_5.png)
 
 ##### Conclusion
 
