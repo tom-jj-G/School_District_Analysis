@@ -18,6 +18,10 @@ The goals of this challenge are for you to:
 - Explain how your PyCitySchools analysis changes after you handle the incorrect data. 
 
 ### Analysis Results
+
+461 students have been impacted by the data alteration. On the 39,170 total students, they represent only 1.2% of them.
+Thus, the impact on the results should be limited.
+
 #### District Summary 
 ##### Without data alteration
 ![Images/District_Summary_wa.png](Images/District_Summary_wa.png)
